@@ -1,7 +1,7 @@
 # Mesa-graphics-mod-Ubuntu-20.04-Focal_Fossa
 graphics , mesa , ubuntu , 20.04 , deb-x84-amd64-package , support , x86_64 , gallium-pipe , OpenCL , d3d , nine , vdpau , linux , wayland
 
-Ubuntu 20.04 Focal Fossa and Ubuntu 19.04 Disco Dingo graphics patent driver
+Ubuntu 20.04 Focal Fossa and Ubuntu 19.04 Disco Dingo mesa version: 20.0.4 graphics driver patent 
 
 sudo apt update && apt upgrade -y
 
