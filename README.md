@@ -11,7 +11,7 @@ $ git clone https://github.com/Griggorii/Mesa-graphics-mod-Ubuntu-20.04-Focal_Fo
 
 $ cd Mesa-graphics-mod-Ubuntu-20.04-Focal_Fossa
 
-$ sudo tar xvpf mesa-20.04.tar.xz-C /
+$ sudo tar xvpf mesa-20.04.tar.xz -C /
 
 Mesa fast wayland +10,5% speed
 
